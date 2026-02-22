@@ -1,8 +1,4 @@
 {
-  "metadata": {
-    "email": "24ds3000108@ds.study.iitm.ac.in",
-    "version": "7960719c"
-  },
   "products": [
     {
       "id": "prod-7960719c-001",
@@ -174,9 +170,12 @@
     }
   ],
   "aggregations": {
-    "clothing": {
-      "count": 3,
-      "inventoryValue": 21396.01
+    "categories": {
+      "books": 7,
+      "sports": 6,
+      "clothing": 3,
+      "home": 1,
+      "electronics": 3
     }
   }
 }
