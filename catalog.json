@@ -1,8 +1,4 @@
 {
-  "metadata": {
-    "email": "24ds3000108@ds.study.iitm.ac.in",
-    "version": "7960719c"
-  },
   "products": [
     { "id": "prod-7960719c-001", "name": "Basic Item 1", "category": "books", "price": 286.87, "stock": 163, "rating": 1.5 },
     { "id": "prod-7960719c-002", "name": "Standard Item 2", "category": "sports", "price": 67.93, "stock": 66, "rating": 2.2 },
@@ -29,11 +25,11 @@
   "aggregations": {
     "books": {
       "count": 7,
-      "inventoryValue": 232626.86
+      "inventoryValue": 253852.11
     },
     "sports": {
-      "count": 6,
-      "inventoryValue": 50033.17
+      "count": 7,
+      "inventoryValue": 45202.27
     },
     "clothing": {
       "count": 3,
